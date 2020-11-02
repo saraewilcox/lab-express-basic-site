@@ -1,0 +1,24 @@
+/* body {
+    color: rgb(174, 174, 201);
+    background-color: rgb(190, 179, 115);
+} */
+
+
+body {
+    font-family: 'Georgia';
+    background-color: #c8f5ae;
+    color: #444;
+}
+ol,
+ul {
+  list-style: none;
+}
+
+p {
+    line-height: 1.8;
+  }
+
+  .inline-block {
+    display: inline-block;
+    padding: 10px;
+ }
